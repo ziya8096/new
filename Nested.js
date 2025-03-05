@@ -42,6 +42,5 @@ console.log(scienceGrade);
 students[0].grades.math = 95;
 
 // Verify the update
-console.log(students[0].grades.math);
- // Output: 95
+console.log(students[0].grades.math); // Output: 95
 }
